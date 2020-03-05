@@ -1,3 +1,3 @@
-# Translate Histogram filter from python to C++
-Udacity Intro to self-driving-cars
+# Intro to Self Driving Cars 
+Udacity Nano-Degree
 Work in Progress 
