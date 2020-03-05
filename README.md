@@ -1,3 +1,2 @@
-# Intro to Self Driving Cars 
-Udacity Nano-Degree
-Work in Progress 
+# iSDC-P2-Translate-Python-Cpp
+Repository for P2 of iSDC - Translate Python to C++
