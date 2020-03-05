@@ -1,4 +1,3 @@
-# CPP-Histogram-Project
+# Translate Histogram filter from python to C++
 Udacity Intro to self-driving-cars
-Translate Histogram Filter from Python to C++
 Work in Progress 
